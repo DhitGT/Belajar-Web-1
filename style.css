@@ -115,14 +115,17 @@ body{
   }
 
   .footer span{
-    margin: -310px;
     font-size: 8px;
   }
 
   @media only screen and (max-width: 767px) {
-    .footer{
-        font-size: smaller;
-    }
+    .footer p{
+        font-size: 8px;
+      }
+    
+      .footer span{
+        font-size: 5px;
+      }
     .latihan12{
         height: max-content;
     }
