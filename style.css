@@ -120,6 +120,9 @@ body{
   }
 
   @media only screen and (max-width: 767px) {
+    .footer{
+        font-size: smaller;
+    }
     .latihan12{
         height: max-content;
     }
